@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is **Yang CHENG**. I'm currently exploring interesting anything in area of Computer Science, as well as life.
+My name is **Yang CHENG**. I'm currently exploring interesting anything in areas of Computer Science, as well as life.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NEWPLAN)
 
