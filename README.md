@@ -3,6 +3,10 @@
 
 My name is **Yang CHENG**. I'm currently exploring interesting anything in areas of Computer Science, as well as life.
 
+Particularly, I'm working on:
+- Networked systems
+- Distributed training systems for machine learning
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=NEWPLAN)
 
 ### Notes:
